@@ -22,6 +22,11 @@ _Acunetix is an automated web application security testing tool that audits your
    ```
 6. Refresh your acunetix browser
 7. Boom !!! Installation Success
+   
+### Password
+   ```
+   anonre123
+   ```
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joelindra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/joelindra" /></a></p><br><br>
